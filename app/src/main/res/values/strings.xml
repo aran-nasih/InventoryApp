@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sell">Sell</string>
+    <string name="product_name">Product Name:</string>
+    <string name="product_price">Product Price:</string>
+    <string name="product_quantity">Product Quantity:</string>
+    <string name="order">Order</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="add_product">Add Product</string>
+    <string name="increase">increase</string>
+    <string name="decrease">decrease</string>
+    <string name="no_products_yet">No Products Yet</string>
+
+    <string name="editor_update_product_failed">Failed updating product</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting Product</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="editor_insert_product_failed">Failed inserting product</string>
+    <string name="editor_insert_product_successful">Product successfully inserted</string>
+    <string name="editor_update_product_successful">Product successfully updated</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update Product</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
